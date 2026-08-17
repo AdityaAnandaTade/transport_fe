@@ -1,4 +1,4 @@
-import Logo from "/logo.png";
+import Logo from "./../../public/logos/leafai_global.png";
 import { Card, CardContent } from "@/components/ui/card";
 import {
   Carousel,
